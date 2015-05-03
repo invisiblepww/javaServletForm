@@ -29,6 +29,5 @@ public class javaForm extends HttpServlet {
 			out.println("<h1>Your EMail: " + EMail + "<h1/>");
 			out.println("<body/>");
 			out.println("<html/>");
-			
 		}
 }
